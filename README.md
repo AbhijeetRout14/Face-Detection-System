@@ -30,25 +30,8 @@ OpenCV – Image processing & classical CV methods
 
 TensorFlow/Keras or PyTorch – Deep learning-based detection
 
-Dlib (optional) – Advanced face detection utilities
-📂 Project Structure
-Face-Detection-System/
-│── data/               # Sample images/videos
-│── models/             # Pre-trained models (Haar cascades, CNNs, etc.)
-│── src/                # Source code for detection
-│   ├── haar_cascade.py
-│   ├── hog_svm.py
-│   ├── mtcnn.py
-│   └── ssd_detector.py
-│── requirements.txt    # Dependencies
-│── README.md           # Project documentation
 
 ⚡ Installation & Usage
-
-Clone the repository
-
-git clone https://github.com/your-username/Face-Detection-System.git
-cd Face-Detection-System
 
 
 Install dependencies
